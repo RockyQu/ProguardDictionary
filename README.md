@@ -1,0 +1,2 @@
+# ProguardDictionary
+Proguard dictionary files.
