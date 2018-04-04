@@ -20,3 +20,7 @@
 ## Analyze APK
 打包好的 APK 使用 Android Studio 的 Analyze APK 能够看到混淆后的结果
 ![](https://github.com/RockyQu/ProguardDictionary/blob/master/ImageFolder/proguard1.png "")
+
+## Dictionary Rules
+字典规则：一行一个单词，空行忽略，重复忽略  
+你可以修改文件添加你自己的字典规则，甚至可以添加中文，随便怎么玩 (￣ˇ￣)
