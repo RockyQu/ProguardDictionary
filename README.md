@@ -22,5 +22,5 @@
 ![](https://github.com/RockyQu/ProguardDictionary/blob/master/ImageFolder/proguard1.png "")
 
 ## Dictionary Rules
-字典规则：一行一个单词，空行忽略，重复忽略
+字典规则：一行一个单词，空行忽略，重复忽略  
 你可以修改文件添加你自己的字典规则，甚至可以添加中文，随便怎么玩(゜- ゜)つロ
