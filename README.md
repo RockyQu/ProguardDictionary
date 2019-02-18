@@ -23,5 +23,5 @@
 
 ## Dictionary Rules
 字典规则：一行一个单词，空行忽略，重复忽略  
-你可以修改文件添加你自己的字典规则，甚至可以添加中文
+你可以修改文件添加你自己的字典规则，甚至可以添加中文  
 相关教程 [Android 混淆技术全面整理](https://rockycoder.cn/android/2018/03/15/Android-proguard-rules.html)
